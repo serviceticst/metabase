@@ -80,7 +80,7 @@ WantedBy=multi-user.target
 EOF
 clear
 echo "#-----------------------------------------#"
-echo "ATIVANDO E LIBERANDO A PORTA 3000/TCP NO FIREWALL"
+echo   "LIBERANDO A PORTA 3000/TCP NO FIREWALL"
 echo "#-----------------------------------------#"
 firewall-cmd --permanent --add-port=3000/tcp
 firewall-cmd --reload 
