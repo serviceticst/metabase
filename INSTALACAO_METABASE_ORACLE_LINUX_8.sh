@@ -1,5 +1,5 @@
 #------------------------------------------------
-#   INSTALACAO AUTOMATIZADA GRAFANA NO ORACLE LINUX 8
+#   INSTALACAO AUTOMATIZADA METABASE NO ORACLE LINUX 8
 #------------------------------------------------
 #
 #  Desenvolvido por: Service TIC Solucoes Tecnologicas
