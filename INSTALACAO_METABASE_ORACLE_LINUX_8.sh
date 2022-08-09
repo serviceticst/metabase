@@ -1,6 +1,6 @@
-#------------------------------------------------
-#   INSTALACAO AUTOMATIZADA GRAFANA NO ORACLE LINUX 8
-#------------------------------------------------
+#-----------------------------------------------------
+#   INSTALACAO AUTOMATIZADA METABASE NO ORACLE LINUX 8
+#-----------------------------------------------------
 #
 #  Desenvolvido por: Service TIC Solucoes Tecnologicas
 #            E-mail: contato@servicetic.com.br
@@ -14,6 +14,7 @@
 #
 #-------------------------------------------------
 #
+METABASE_VERSION=v0.43.4
 clear
 echo "#-----------------------------------------#"
 echo       "INSTALANDO PACOTES NECESSARIOS"
@@ -31,7 +32,7 @@ echo   "BAIXANDO METABASE EM /usr/share/metabase"
 echo "#-----------------------------------------#"
 mkdir /usr/share/metabase &&
 cd /usr/share/metabase &&
-wget https://downloads.metabase.com/v0.43.4/metabase.jar &&
+wget https://downloads.metabase.com/$METABASE_VERSION/metabase.jar &&
 clear
 echo "#-----------------------------------------#"
 echo          "APLICANDO PERMISSOES"
