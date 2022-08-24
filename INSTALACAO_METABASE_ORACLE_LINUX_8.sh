@@ -12,6 +12,8 @@
 #           YouTube: https://youtube.com/c/serviceticst
 #            GitHub: https://github.com/serviceticst
 #
+#              Blog: https://servicetic.com.br/metabase-instalacao-automatizada-no-oracle-linux-8
+#           YouTube: https://www.youtube.com/watch?v=p4M2Uemh2eE
 #-------------------------------------------------
 #
 clear
