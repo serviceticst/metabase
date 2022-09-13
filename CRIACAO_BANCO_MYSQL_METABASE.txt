@@ -1,0 +1,16 @@
+----------------------------------------------------------
+      ACESSE O MYSQL E COLE AS LINHAS ABAIXO:
+----------------------------------------------------------
+
+CREATE USER 'metabase'@'localhost' IDENTIFIED BY '123.Mudar';
+CREATE DATABASE IF NOT EXISTS `metabase` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+GRANT ALL PRIVILEGES ON `metabase`.* TO 'metabase'@'localhost';
+GRANT SELECT ON `mysql`.`time_zone_name` TO 'metabase'@'localhost';
+grant all on metabase.* to "metabase"@"localhost";
+alter user "metabase"@"localhost" identified with mysql_native_password by "123.Mudar";
+flush privileges;
+
+----------------------------------------------------------
+         123.Mudar, ALTERE PARA A SUA SENHA
+  USUARIO E BANCO COM O NOME DE metabase É OPCIONAL
+----------------------------------------------------------
