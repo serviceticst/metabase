@@ -14,7 +14,7 @@
 #              GitHub: https://github.com/serviceticst
 #
 #                Blog: https://servicetic.com.br/migracao-banco-h2-mysql-metabase-automatizada-no-oracle-linux-8
-#             YouTube: https://www.youtube.com/watch?v=p4M2Uemh2eE
+#             YouTube: https://youtu.be/Lopw-SjgX0U
 #
 #-------------------------------------------------
 #    Instalação MySLQ: https://github.com/serviceticst/sgdb/blob/main/INSTALL_MYSQL_8_ORACLE_LINUX_8.txt
