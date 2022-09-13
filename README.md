@@ -1,5 +1,6 @@
 ## Script para instalação automatizada do metabase no Oracle Linux 8
 ## Criação de banco de dados para MysQL
+## Migração do banco H2 para MySQL
 
 
 ######  Desenvolvido por: Service TIC Solucoes Tecnológicas
