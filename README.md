@@ -1,4 +1,6 @@
 ## Script para instalação automatizada do metabase no Oracle Linux 8
+## Criação de banco de dados para MysQL
+
 
 ######  Desenvolvido por: Service TIC Solucoes Tecnológicas
 ######            E-mail: contato@servicetic.com.br
