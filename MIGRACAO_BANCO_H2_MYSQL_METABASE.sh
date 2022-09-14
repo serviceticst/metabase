@@ -13,7 +13,7 @@
 #             YouTube: https://youtube.com/c/serviceticst
 #              GitHub: https://github.com/serviceticst
 #
-#                Blog: https://servicetic.com.br/migracao-banco-h2-mysql-metabase-automatizada-no-oracle-linux-8
+#                Blog: https://servicetic.com.br/metabase-migracao-do-banco-h2-para-mysql
 #             YouTube: https://youtu.be/Lopw-SjgX0U
 #
 #-------------------------------------------------
