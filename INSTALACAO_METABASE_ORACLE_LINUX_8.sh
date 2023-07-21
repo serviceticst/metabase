@@ -26,7 +26,7 @@ clear
 echo "#-----------------------------------------#"
 echo       "INSTALANDO java-11-openjdk"
 echo "#-----------------------------------------#"
-dnf install java-11-openjdk-devel -y
+dnf install java-latest-openjdk.x86_64 -y
 clear
 echo "#-----------------------------------------#"
 echo   "BAIXANDO METABASE EM /usr/share/metabase"
