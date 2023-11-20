@@ -90,3 +90,7 @@ echo "#--------------------------------------------------------#"
 systemctl start metabase
 tail -f /var/log/metabase.log
 echo FIM
+
+#------------------------------
+# OPÇÃO 2 CASO DER ERRO NA DE CIMA
+# java -DMB_DB_TYPE=mysql -DMB_DB_CONNECTION_URI="jdbc:mysql://localhost:3306/metabase?user=metabase&password=SUA-SENHA-ALTERAR&useSSL=false&allowPublicKeyRetrieval=true" -jar metabase.jar load-from-h2 metabase.db
