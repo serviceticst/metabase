@@ -2,7 +2,7 @@
       ACESSE O MYSQL E COLE AS LINHAS ABAIXO:
 ----------------------------------------------------------
 
-CREATE USER 'metabase'@'localhost' IDENTIFIED BY '123.Mudar';
+CREATE USER 'metabase'@'localhost' IDENTIFIED BY '123@Mudar';
 CREATE DATABASE IF NOT EXISTS `metabase` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 GRANT ALL PRIVILEGES ON `metabase`.* TO 'metabase'@'localhost';
 GRANT SELECT ON `mysql`.`time_zone_name` TO 'metabase'@'localhost';
