@@ -7,7 +7,7 @@ CREATE DATABASE IF NOT EXISTS `metabase` CHARACTER SET utf8mb4 COLLATE utf8mb4_u
 GRANT ALL PRIVILEGES ON `metabase`.* TO 'metabase'@'localhost';
 GRANT SELECT ON `mysql`.`time_zone_name` TO 'metabase'@'localhost';
 grant all on metabase.* to "metabase"@"localhost";
-alter user "metabase"@"localhost" identified with mysql_native_password by "123.Mudar";
+alter user "metabase"@"localhost" identified with mysql_native_password by "123@Mudar";
 flush privileges;
 
 ----------------------------------------------------------
