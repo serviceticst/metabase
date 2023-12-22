@@ -11,6 +11,6 @@ alter user "metabase"@"localhost" identified with mysql_native_password by "123@
 flush privileges;
 
 ----------------------------------------------------------
-         123.Mudar, ALTERE PARA A SUA SENHA
+         123@Mudar, ALTERE PARA A SUA SENHA
   USUARIO E BANCO COM O NOME DE metabase É OPCIONAL
 ----------------------------------------------------------
