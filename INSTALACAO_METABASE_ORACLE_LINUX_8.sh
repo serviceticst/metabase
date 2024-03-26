@@ -42,7 +42,7 @@ groupadd --system metabase
 useradd --system -g metabase --no-create-home metabase
 chown -R metabase:metabase /usr/share/metabase
 touch /var/log/metabase.log
-chown metabase:metabase /var/log/metabase.log
+chown metabase:metabase /var/log/metabase/metabase.log
 touch /etc/default/metabase
 chmod 640 /etc/default/metabase
 clear
@@ -51,7 +51,7 @@ echo          "CRIANDO ARQUIVO DE LOG"
 echo "#-----------------------------------------#"
 clear
 touch /etc/rsyslog.d/metabase.conf
-echo ":msg,contains,"metabase" /var/log/metabase.log" >> /etc/rsyslog.d/metabase.conf
+echo ":msg,contains,"metabase" /var/log/metabase/metabase.log" >> /etc/rsyslog.d/metabase.conf
 echo "& stop" >> /etc/rsyslog.d/metabase.conf
 systemctl restart rsyslog
 clear
