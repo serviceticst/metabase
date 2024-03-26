@@ -40,8 +40,9 @@ echo          "APLICANDO PERMISSOES"
 echo "#-----------------------------------------#"
 groupadd --system metabase
 useradd --system -g metabase --no-create-home metabase
+mkdir /var/log/metabase
 chown -R metabase:metabase /usr/share/metabase
-touch /var/log/metabase.log
+touch /var/log/metabase/metabase.log
 chown metabase:metabase /var/log/metabase/metabase.log
 touch /etc/default/metabase
 chmod 640 /etc/default/metabase
