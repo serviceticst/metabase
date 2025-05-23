@@ -6,6 +6,7 @@
 
 ### 📋 Lista de Scripts
 - 📥 [Instalação automatizada do Metabase no Oracle Linux 8](https://github.com/serviceticst/metabase/releases/tag/1.0.0)
+- 📥 [Migração H2 para MySQL no Metabase](https://github.com/serviceticst/metabase/releases/tag/2.0.0)
 
 ***
 
@@ -16,6 +17,7 @@
 ### 📋 Scripts List
 
 - 📥 [Automated Metabase Installation on Oracle Linux 8](https://github.com/serviceticst/metabase/releases/tag/1.0.0)
+- 📥 [Migration from H2 to MySQL in Metabase](https://github.com/serviceticst/metabase/releases/tag/2.0.0)
 
 ***
 ### Desenvolvido por: Service TIC Soluções Tecnológicas (Developed by: Service TIC Technological Solutions)
