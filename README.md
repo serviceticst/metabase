@@ -1,4 +1,4 @@
-# 🇧🇷 🧩 Scripts para ferramenta [Metabase](https://www.metabase.com)
+# <img src="https://flagcdn.com/w40/br.png" width="40"> 🧩 Scripts para ferramenta [Metabase](https://www.metabase.com)
 
 - Este repositório reúne scripts para Metabase desenvolvidos pela equipe da Service TIC.
 - A cada nova versão, disponibilizamos novos scripts e atualizações para os existentes, visando aprimorar a automação e a gestão da ferramenta.
@@ -10,7 +10,7 @@
 
 ***
 
-## 🇺🇸 🧩 Scripts for [Metabase](https://www.metabase.com) tool
+## <img src="https://flagcdn.com/w40/us.png" width="40"> 🧩 Scripts for [Metabase](https://www.metabase.com) tool
 - This repository contains Metabase scripts developed by the Service TIC team.
 - With each new release, we provide additional scripts and updates to existing ones to enhance tool automation and management.
 
